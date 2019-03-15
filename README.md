@@ -1,7 +1,6 @@
 # vue-tinymce
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/9a08882c-638a-4fef-9bef-6748428d20aa/deploy-status)](https://vue-ckeditor.netlify.com/) -->
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b6e53b3d-c9fb-4304-b296-507eeabb8e58/deploy-status)](https://vue-tinymce.netlify.com/)
 
 ## Project setup
 ```
